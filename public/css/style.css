@@ -1,0 +1,22 @@
+body
+{
+    background-color: #1e8bc3;
+}
+.main-sec
+{
+   margin: 5% 20% 0 20%;
+}
+h1
+{
+    margin-top: 5%;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 82px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+}
+.main-sec input,button
+{
+    display: block;
+    margin: 0 auto;
+}
